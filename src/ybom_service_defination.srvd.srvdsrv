@@ -1,0 +1,4 @@
+@EndUserText.label: 'BOM_SERVICE_DEFINATION'
+define service YBOM_SERVICE_DEFINATION {
+  expose Yresponcecds_BOM;
+}
